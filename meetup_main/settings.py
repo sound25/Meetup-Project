@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^1e=qkv@dv0ln3dsiglamo*8ce(udcsqz70)6((3oqde&0fzbx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['meetup-project.herokuapp.com']
+ALLOWED_HOSTS = ['meetup-project.herokuapp.com','127.0.0.1']
 
 
 # Application definition
