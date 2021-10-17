@@ -4,6 +4,8 @@ This project is deployed in Heroku and can be reached at https://meetup-project.
  
 This project is developed using Django and sqlite.
 
-It allows users to register for a meetup using an email ID.
+It lists out the upcmong meetup details and allows users to register for a meetup using an email ID.
+
+Admin will be able to add meetup information through admin site of this project.
 
 ![image](https://user-images.githubusercontent.com/34751165/137636217-9a9d5ddb-2ae0-4ba3-9cb2-99a2f85fb557.png)
